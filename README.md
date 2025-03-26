@@ -14,7 +14,7 @@ Creating interactive dashboards and reports using Power BI.
 Filter and drill-down capabilities for detailed data exploration.
 
 ## Benefits
-This dashboard use for to see which outlets performing better and allocate resources or focus on underperforming regions.
+This dashboard use to see which outlets performing better and allocate resources or focus on underperforming regions.
 We can understand which products driving more sales and profit, allowing to optimize menu or introduce new products that could meet customers demand.
 This enables better planning for inventory, marketing strategies, and staffing to meet demand fluctuations, ensuring the business can scale effectively.
 
