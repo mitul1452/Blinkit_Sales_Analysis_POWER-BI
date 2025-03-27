@@ -1,9 +1,9 @@
-# Swiggy Sales Analysis (POWER BI)
-**>>** This project demonstrates the analysis of sales data from Swiggy using Power BI. The analysis explores sales trends, customer behavior, and other key performance indicators to provide insights into Swiggy's performance.
+# Blinkit Sales Analysis (POWER BI)
+**>>** This project demonstrates the analysis of sales data from Blinkit using Power BI. The analysis explores sales trends, customer behavior, and other key performance indicators to provide insights into Blinkit's performance.
 
 ## Project Overview
 In this project, we focus on:
-Analyzing the sales data from **Swiggy**, including total sales, sales by outlets, and sales by products.
+Analyzing the sales data from **Blinkit**, including total sales, sales by outlets, and sales by products.
 Visualizing trends over time to understand peak sales periods and performance shifts.
 Applying DAX (Data Analysis Expressions) formulas to calculate important metrics such as average order value, average rating, total products and more.
 
