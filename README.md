@@ -1,4 +1,4 @@
-# Swiggy-Sales-Analysis (POWER-BI)
+# Swiggy Sales Analysis (POWER BI)
 **>>** This project demonstrates the analysis of sales data from Swiggy using Power BI. The analysis explores sales trends, customer behavior, and other key performance indicators to provide insights into Swiggy's performance.
 
 ## Project Overview
